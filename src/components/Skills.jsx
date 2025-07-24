@@ -72,7 +72,7 @@ const Skills = () => {
 
         <div className="w-full flex flex-col justify-center items-center gap-6 mb-10 mt-10">
           <div  className=" pl-7 pt-4 py-5 shadow p-4 bg-gray-100 rounded items-center">
-          <h1 className="text-center font-bold text-2xl mb-4"> Dusktop  supportEg</h1>
+          <h1 className="text-center font-bold text-2xl mb-4"> Desktop  Support</h1>
           <div className="grid grid-cols-2 ">
             {repeating.map((i,index) => (
               <div key={index} className="flex w-[100px]">
