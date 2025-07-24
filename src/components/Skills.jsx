@@ -10,8 +10,8 @@ const Skills = () => {
     { name: "Git", experience: "Advanced" }
   ];
   const repeated = [
-    { name: "php", experience: "Advanced" },
-    { name: "Node", experience: "Advanced" },
+    { name: "PHP", experience: "Advanced" },
+    { name: "NodeJs", experience: "Advanced" },
     { name: "Laravel", experience: "Advanced" },
     { name: "ExpressJs", experience: "Advanced" },
     { name: "MogoDB", experience: "Advanced" },
@@ -20,9 +20,9 @@ const Skills = () => {
 
   const repeating = [
     { name: "OS", experience: "Advanced" },
-    { name: "installation", experience: "Advanced" },
+    { name: "Installation", experience: "Advanced" },
     { name: "Laptops", experience: "Advanced" },
-    { name: "Debug", experience: "Advanced" },
+    { name: "Debugging", experience: "Advanced" },
     { name: "AnyDesk", experience: "Advanced" },
     { name: "Desktops", experience: "Advanced" }
   ];
