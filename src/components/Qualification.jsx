@@ -45,8 +45,8 @@ const Qualification = () => {
         </div>
         
         <div className="w-50    shadow rounded  bg-gray-800 text-white hover:bg-gray-700 mt-5 items-center mb-5   ">
-          <h1 className="text-center font-bold mt-3">Computer care</h1>
-          <p className="text-center text-sm">Dusktop supportEng</p>
+          <h1 className="text-center font-bold mt-3">ITcare computers</h1>
+          <p className="text-center text-sm">Desktop support</p>
         </div>
 
         <div className="w-50  shadow rounded  bg-gray-800 text-white  hover:bg-gray-700 mt-5 items-center mb-5  ">
