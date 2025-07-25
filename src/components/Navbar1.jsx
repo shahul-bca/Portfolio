@@ -139,7 +139,7 @@ const Navbar = () => {
                     <RiFileUserFill className="dark:text-gray-800" />
                   </div>
                   <Link onClick={() => setOpen(!open)} to="skills" smooth={true} offset={-200} duration={500}>
-                    Skils
+                    Skills
                   </Link>
                 </div>
 
